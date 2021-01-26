@@ -1,0 +1,2 @@
+# Ex9_FinalV2
+Create java application containing 3 classes including Contact, Telephone, and ContactList. Contact class represents a person with information such as Firstname, Lastname, and a list of Telephone numbers. Telephone class represents phone number and a purpose of it. Ex: 012345678 for home use. ContactList represents list of objects of class Contact. Implement as menu for user to be able to Add/Update/Delete/Listing contacts.
